@@ -96,7 +96,7 @@ unsigned int tabspaces = 2;
 /* bg opacity */
 float alpha = 0.75;
 
-#include "themes/5wr3m7.theme.h"
+#include "themes/6ozkzl.theme.h"
 
 /*
  * Default colors (colorname index)
